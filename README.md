@@ -1,6 +1,6 @@
 # MyWilson
 
-Welcome to **MyWilson** – an app that gives you personalized info about wilson middle school!
+Welcome to **MyWilson** – an app that gives you personalized info about **Wilson Middle School**!
 
 ## Overview
 
