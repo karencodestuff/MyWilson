@@ -33,3 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Ready to make your school day smoother? Go to my-wilson.vercel.app or download the app and start getting the school info you need!
 
 ![image](https://github.com/user-attachments/assets/24480971-ef81-41d6-877c-9add582e293e)
+
+![image](https://github.com/user-attachments/assets/5649d5b5-d2d8-4bd1-90e5-c87fb5ab0f88)
+
+![image](https://github.com/user-attachments/assets/2491b5ad-3e1c-4eb2-a5b6-2a231481fa94)
