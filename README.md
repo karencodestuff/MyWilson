@@ -1,4 +1,4 @@
-# MyWilson
+# MyWilson (PROJECT DEVELOPMENT AT A HALT)
 
 Welcome to **MyWilson** – an app that gives you personalized info about **Wilson Middle School**!
 
